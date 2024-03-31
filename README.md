@@ -11,5 +11,4 @@ Consist primarily of three classes:
 - "EpidemicModel" with f# Simple SIR Semi-Guided Random Walk Epidemic Model
 
 A file "Simulation_%settings%.gif" is output from this script, which plots the movement and states of people, impassable objects, and the total number of healthy, infected and recovered people wrt. time. See example below:
-![1000003309](https://github.com/Mathias157/toy-epidemic-model/assets/77012503/f2013bbc-7d4b-4528-90e5-4f3b54ad35a2)
-
+![Simulation_IR0 300_PSR0 150_T50_LDL500](https://github.com/Mathias157/toy-epidemic-model/assets/77012503/0fea6da9-f9bc-45eb-9339-a77ff55d0f2f)
